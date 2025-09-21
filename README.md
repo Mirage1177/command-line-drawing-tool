@@ -28,8 +28,16 @@ A lightweight drawing application built with Pygame that lets you create shapes 
 pip install pygame
 ```
 2.Run the script in a terminal (not inside the Pygame window):
+
 ```bash
 python draw.py
 ```
 Type commands directly into the terminal. The Pygame window will stay open and update as you draw.
 you can see the result of your work at the draw.png that you created with 'end drawing' command.
+
+### edit :
+for some strange reasons that usually happens on windows, it looks like previous code was creating a freezing window when you run it on windows (and maybe some debian based linux systems) ; which is very unamusing. so i updated the code with a threading-based input gathering. be happy and smile :)
+
+
+
+
