@@ -33,5 +33,3 @@ python draw.py
 ```
 Type commands directly into the terminal. The Pygame window will stay open and update as you draw.
 you can see the result of your work at the draw.png that you created with 'end drawing' command.
-   ```bash
-   pip install pygame
