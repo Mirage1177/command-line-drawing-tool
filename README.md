@@ -36,7 +36,7 @@ Type commands directly into the terminal. The Pygame window will stay open and u
 you can see the result of your work at the draw.png that you created with 'end drawing' command.
 
 ### edit :
-for some strange reasons that usually happens on windows, it looks like previous code was creating a freezing window when you run it on windows (and maybe some debian based linux systems) ; which is very unamusing. so i updated the code with a threading-based input gathering. be happy and smile :)
+for some strange reasons that usually happen on windows, it looks like previous code was creating a freezing window when you run it on windows (and maybe some debian based linux systems) ; which is very unamusing. so i updated the code with a threading-based input gathering. be happy and smile :)
 
 
 
